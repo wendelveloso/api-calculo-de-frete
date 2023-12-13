@@ -1,6 +1,6 @@
 # API | Simulador de frete
 
-Simples projeto de simulador de frete para produtos registrados em um banco de dados. Permite listar todos os **itens registrados**, função busca de **item pelo id** e o **simulador do frete**, onde será exibido o produto juntamente com o local destino e o valor que será cobrado pela entrega.
+Simples projeto de simulador de frete para produtos registrados em um banco de dados. Permite listar todos os ***itens registrados***, função busca de ***item pelo id*** e o ***simulador do frete***, onde será exibido o produto juntamente com o local destino e o valor que será cobrado pela entrega.
 
 <br>
 <img align=center src="img/img-readme.png">
